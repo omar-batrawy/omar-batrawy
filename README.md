@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-batrawy&label=Profile%20views&color=0e75b6&style=flat" alt="omar-batrawy" /> </p>
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **obatrawy7@gmail.com**
 
